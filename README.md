@@ -31,10 +31,10 @@ Accuracy evaluation, prediction, and error analysis tools
 - `reports/`: Final report with problem statement, methodology, and results
 
 ## 📄 Final Report
-See the full report [here](reports/final_report.pdf).
+See the full report [here](reports/Mathematics_of_NN.pdf).
 
 ## 📓 Jupyter Notebook
-View the notebook used for this project [here](notebooks/your_notebook_name.ipynb).
+View the notebook used for this project [here](notebooks/Neural_Network_from_Scratch.ipynb).
 
 ## 🧠 Model Used
 Only numpy is used to make this
